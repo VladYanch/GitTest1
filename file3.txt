@@ -1,2 +1,6 @@
-взять и вставить 
+
+git push --set-upstream origin BRANCH-NAME
+
+
+
 
